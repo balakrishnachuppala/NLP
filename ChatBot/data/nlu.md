@@ -1,0 +1,361 @@
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+
+## intent:goodbye
+- bye
+- Thanks
+- Thank You
+- Thank you very much
+- goodbye
+- see you around
+- see you later
+
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+
+## intent:deny
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+
+## intent:mood_great
+- perfect
+- very good
+- great
+- amazing
+- wonderful
+- I am feeling very good
+- I am great
+- I'm good
+
+## intent:mood_unhappy
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+
+## intent:carona_search
+- [india](state)
+- from [india](state)
+- from [India](state)
+- [India](state)
+- country [india](state)
+- country [India](state)
+- please let me know carona stats from [india](state)
+- carona details from [india](state)
+- what is the carona deaths from [Andhra pradesh](state)
+- how many carona affected persons in [Goa](state) 
+- [carone](state)
+- [india](state)
+- [India](state)
+- [Andhra Pradesh](state)
+- [Arunachal Pradesh](state)
+- [Assam](state)
+- [Bihar](state)
+- [Chhattisgarh](state)
+- [Goa](state)
+- [Gujarat](state)
+- [Haryana](state)
+- [Himachal Pradesh](state)
+- [Jharkhand](state)
+- [Karnataka](state)
+- [Kerala](state)
+- [Madhya Pradesh](state)
+- [Maharashtra](state)
+- [Manipur](state)
+- [Meghalaya](state)
+- [Mizoram](state)
+- [Nagaland](state)
+- [Odisha](state)
+- [Punjab](state)
+- [Rajasthan](state)
+- [Sikkim](state)
+- [Tamil Nadu](state)
+- [Telangana](state)
+- [Tripura](state)
+- [Uttar Pradesh](state)
+- [Uttarakhand](state)
+- [West Bengal](state)
+- [Andaman and Nicobar Islands](state)
+- [Chandigarh](state)
+- [Dadra and Nagar Haveli and Daman and Diu](state)
+- [Delhi](state)
+- [Jammu and Kashmir](state)
+- [Ladakh](state)
+- [Lakshadweep](state)
+- [Puducherry](state)
+- what is the carona deaths from [Andhra Pradesh](state)
+- what is the carona deaths from [Arunachal Pradesh](state)
+- what is the carona deaths from [Assam](state)
+- what is the carona deaths from [Bihar](state)
+- what is the carona deaths from [Chhattisgarh](state)
+- what is the carona deaths from [Goa](state)
+- what is the carona deaths from [Gujarat](state)
+- what is the carona deaths from [Haryana](state)
+- what is the carona deaths from [Himachal Pradesh](state)
+- what is the carona deaths from [Jharkhand](state)
+- what is the carona deaths from [Karnataka](state)
+- what is the carona deaths from [Kerala](state)
+- what is the carona deaths from [Madhya Pradesh](state)
+- what is the carona deaths from [Maharashtra](state)
+- what is the carona deaths from [Manipur](state)
+- what is the carona deaths from [Meghalaya](state)
+- what is the carona deaths from [Mizoram](state)
+- what is the carona deaths from [Nagaland](state)
+- what is the carona deaths from [Odisha](state)
+- what is the carona deaths from [Punjab](state)
+- what is the carona deaths from [Rajasthan](state)
+- what is the carona deaths from [Sikkim](state)
+- what is the carona deaths from [Tamil Nadu](state)
+- what is the carona deaths from [Telangana](state)
+- what is the carona deaths from [Tripura](state)
+- what is the carona deaths from [Uttar Pradesh](state)
+- what is the carona deaths from [Uttarakhand](state)
+- what is the carona deaths from [West Bengal](state)
+- what is the carona deaths from [Andaman and Nicobar Islands](state)
+- what is the carona deaths from [Chandigarh](state)
+- what is the carona deaths from [Dadra and Nagar Haveli and Daman and Diu](state)
+- what is the carona deaths from [Delhi](state)
+- what is the carona deaths from [Jammu and Kashmir](state)
+- what is the carona deaths from [Ladakh](state)
+- what is the carona deaths from [Lakshadweep](state)
+- what is the carona deaths from [Puducherry](state)
+- how many carona affected persons in [Andhra Pradesh](state)
+- how many carona affected persons in [Arunachal Pradesh](state)
+- how many carona affected persons in [Assam](state)
+- how many carona affected persons in [Bihar](state)
+- how many carona affected persons in [Chhattisgarh](state)
+- how many carona affected persons in [Goa](state)
+- how many carona affected persons in [Gujarat](state)
+- how many carona affected persons in [Haryana](state)
+- how many carona affected persons in [Himachal Pradesh](state)
+- how many carona affected persons in [Jharkhand](state)
+- how many carona affected persons in [Karnataka](state)
+- how many carona affected persons in [Kerala](state)
+- how many carona affected persons in [Madhya Pradesh](state)
+- how many carona affected persons in [Maharashtra](state)
+- how many carona affected persons in [Manipur](state)
+- how many carona affected persons in [Meghalaya](state)
+- how many carona affected persons in [Mizoram](state)
+- how many carona affected persons in [Nagaland](state)
+- how many carona affected persons in [Odisha](state)
+- how many carona affected persons in [Punjab](state)
+- how many carona affected persons in [Rajasthan](state)
+- how many carona affected persons in [Sikkim](state)
+- how many carona affected persons in [Tamil Nadu](state)
+- how many carona affected persons in [Telangana](state)
+- how many carona affected persons in [Tripura](state)
+- how many carona affected persons in [Uttar Pradesh](state)
+- how many carona affected persons in [Uttarakhand](state)
+- how many carona affected persons in [West Bengal](state)
+- how many carona affected persons in [Andaman and Nicobar Islands](state)
+- how many carona affected persons in [Chandigarh](state)
+- how many carona affected persons in [Dadra and Nagar Haveli and Daman and Diu](state)
+- how many carona affected persons in [Delhi](state)
+- how many carona affected persons in [Jammu and Kashmir](state)
+- how many carona affected persons in [Ladakh](state)
+- how many carona affected persons in [Lakshadweep](state)
+- how many carona affected persons in [Puducherry](state)
+- carona details from [Andhra Pradesh](state)
+- carona details from [Arunachal Pradesh](state)
+- carona details from [Assam](state)
+- carona details from [Bihar](state)
+- carona details from [Chhattisgarh](state)
+- carona details from [Goa](state)
+- carona details from [Gujarat](state)
+- carona details from [Haryana](state)
+- carona details from [Himachal Pradesh](state) 
+- carona details from [Jharkhand](state)
+- carona details from [Karnataka](state)
+- carona details from [Kerala](state)
+- carona details from [Madhya Pradesh](state)
+- carona details from [Maharashtra](state)
+- carona details from [Manipur](state)
+- carona details from [Meghalaya](state)
+- carona details from [Mizoram](state)
+- carona details from [Nagaland](state)
+- carona details from [Odisha](state)
+- carona details from [Punjab](state)
+- carona details from [Rajasthan](state)
+- carona details from [Sikkim](state)
+- carona details from [Tamil Nadu](state)
+- carona details from [Telangana](state)
+- carona details from [Tripura](state)
+- carona details from [Uttar Pradesh](state)
+- carona details from [Uttarakhand](state)
+- carona details from [West Bengal](state)
+- carona details from [Andaman and Nicobar Islands](state)
+- carona details from [Chandigarh](state)
+- carona details from [Dadra and Nagar Haveli and Daman and Diu](state)
+- carona details from [Delhi](state)
+- carona details from [Jammu and Kashmir](state)
+- carona details from [Ladakh](state)
+- carona details from [Lakshadweep](state)
+- carona details from [Puducherry](state)
+- please let me know carona stats from [Andhra Pradesh](state)
+- please let me know carona stats from [Arunachal Pradesh](state)
+- please let me know carona stats from [Assam](state)
+- please let me know carona stats from [Bihar](state)
+- please let me know carona stats from [Chhattisgarh](state)
+- please let me know carona stats from [Goa](state)
+- please let me know carona stats from [Gujarat](state)
+- please let me know carona stats from [Haryana](state)
+- please let me know carona stats from [Himachal Pradesh](state)
+- please let me know carona stats from [Jharkhand](state)
+- please let me know carona stats from [Karnataka](state)
+- please let me know carona stats from [Kerala](state)
+- please let me know carona stats from [Madhya Pradesh](state)
+- please let me know carona stats from [Maharashtra](state)
+- please let me know carona stats from [Manipur](state)
+- please let me know carona stats from [Meghalaya](state)
+- please let me know carona stats from [Mizoram](state)
+- please let me know carona stats from [Nagaland](state)
+- please let me know carona stats from [Odisha](state)
+- please let me know carona stats from [Punjab](state)
+- please let me know carona stats from [Rajasthan](state)
+- please let me know carona stats from [Sikkim](state)
+- please let me know carona stats from [Tamil Nadu](state)
+- please let me know carona stats from [Telangana](state)
+- please let me know carona stats from [Tripura](state)
+- please let me know carona stats from [Uttar Pradesh](state)
+- please let me know carona stats from [Uttarakhand](state)
+- please let me know carona stats from [West Bengal](state)
+- please let me know carona stats from [Andaman and Nicobar Islands](state)
+- please let me know carona stats from [Chandigarh](state)
+- please let me know carona stats from [Dadra and Nagar Haveli and Daman and Diu](state)
+- please let me know carona stats from [Delhi](state)
+- please let me know carona stats from [Jammu and Kashmir](state)
+- please let me know carona stats from [Ladakh](state)
+- please let me know carona stats from [Lakshadweep](state)
+- please let me know carona stats from [Puducherry](state)- [Andhra Pradesh](state)
+- please let me know carona stats from [Arunachal Pradesh](state)
+- please let me know carona stats from [Assam](state)
+- please let me know carona stats from [Bihar](state)
+- please let me know carona stats from [Chhattisgarh](state)
+- please let me know carona stats from [Goa](state)
+- please let me know carona stats from [Gujarat](state)
+- please let me know carona stats from [Haryana](state)
+- please let me know carona stats from [Himachal Pradesh](state)
+- please let me know carona stats from [Jharkhand](state)
+- please let me know carona stats from [Karnataka](state)
+- please let me know carona stats from [Kerala](state)
+- please let me know carona stats from [Madhya Pradesh](state)
+- please let me know carona stats from [Maharashtra](state)
+- please let me know carona stats from [Manipur](state)
+- please let me know carona stats from [Meghalaya](state)
+- please let me know carona stats from [Mizoram](state)
+- please let me know carona stats from [Nagaland](state)
+- please let me know carona stats from [Odisha](state)
+- please let me know carona stats from [Punjab](state)
+- please let me know carona stats from [Rajasthan](state)
+- please let me know carona stats from [Sikkim](state)
+- please let me know carona stats from [Tamil Nadu](state)
+- please let me know carona stats from [Telangana](state)
+- please let me know carona stats from [Tripura](state)
+- please let me know carona stats from [Uttar Pradesh](state)
+- please let me know carona stats from [Uttarakhand](state)
+- please let me know carona stats from [West Bengal](state)
+- please let me know carona stats from [Andaman and Nicobar Islands](state)
+- please let me know carona stats from [Chandigarh](state)
+- please let me know carona stats from [Dadra and Nagar Haveli and Daman and Diu](state)
+- please let me know carona stats from [Delhi](state)
+- please let me know carona stats from [Jammu and Kashmir](state)
+- please let me know carona stats from [Ladakh](state)
+- please let me know carona stats from [Lakshadweep](state)
+- please let me know carona stats from [Puducherry](state)
+- [Andhra Pradesh](state)  Carona details
+- [Arunachal Pradesh](state) Carona details
+- [Assam](state) Carona details
+- [Bihar](state) Carona details
+- [Chhattisgarh](state) Carona details
+- [Goa](state) Carona details
+- [Gujarat](state) Carona details
+- [Haryana](state) Carona details
+- [Himachal Pradesh](state) Carona details
+- [Jharkhand](state) Carona details
+- [Karnataka](state) Carona details
+- [Kerala](state) Carona details
+- [Madhya Pradesh](state) Carona details
+- [Maharashtra](state) Carona details
+- [Manipur](state) Carona details
+- [Meghalaya](state) Carona details
+- [Mizoram](state) Carona details
+- [Nagaland](state) Carona details
+- [Odisha](state) Carona details
+- [Punjab](state) Carona details
+- [Rajasthan](state) Carona details
+- [Sikkim](state) Carona details
+- [Tamil Nadu](state) Carona details
+- [Telangana](state) Carona details
+- [Tripura](state) Carona details
+- [Uttar Pradesh](state) Carona details
+- [Uttarakhand](state) Carona details
+- [West Bengal](state) Carona details
+- [Andaman and Nicobar Islands](state) Carona details
+- [Chandigarh](state) Carona details
+- [Dadra and Nagar Haveli and Daman and Diu](state) Carona details
+- [Delhi](state) Carona details
+- [Jammu and Kashmir](state) Carona details
+- [Ladakh](state) Carona details
+- [Lakshadweep](state) Carona details
+- [Puducherry](state) Carona detailsp
+- [Andhra Pradesh](state)  Carona status
+- [Arunachal Pradesh](state) Carona status
+- [Assam](state) Carona status
+- [Bihar](state) Carona status
+- [Chhattisgarh](state) Carona status
+- [Goa](state) Carona status
+- [Gujarat](state) Carona status
+- [Haryana](state) Carona status
+- [Himachal Pradesh](state) Carona status
+- [Jharkhand](state) Carona status
+- [Karnataka](state) Carona status
+- [Kerala](state) Carona status
+- [Madhya Pradesh](state) Carona status
+- [Maharashtra](state) Carona status
+- [Manipur](state) Carona status
+- [Meghalaya](state) Carona status
+- [Mizoram](state) Carona status
+- [Nagaland](state) Carona status
+- [Odisha](state) Carona status
+- [Punjab](state) Carona status
+- [Rajasthan](state) Carona status
+- [Sikkim](state) Carona status
+- [Tamil Nadu](state) Carona status
+- [Telangana](state) Carona status
+- [Tripura](state) Carona status
+- [Uttar Pradesh](state) Carona status
+- [Uttarakhand](state) Carona status
+- [West Bengal](state) Carona status
+- [Andaman and Nicobar Islands](state) Carona status
+- [Chandigarh](state) Carona status
+- [Dadra and Nagar Haveli and Daman and Diu](state) Carona status
+- [Delhi](state) Carona status
+- [Jammu and Kashmir](state) Carona status
+- [Ladakh](state) Carona status
+- [Lakshadweep](state) Carona status
+- [Puducherry](state) Carona status
